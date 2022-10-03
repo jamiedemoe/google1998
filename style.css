@@ -1,0 +1,78 @@
+.google {
+    text-align: center;
+    /* yazımızı sayfanın ortasına alabiliriz */
+    margin-top: 150px;
+    /* margin ile kutular arası boşluk bırakabiliriz */
+}
+
+.search {
+    height: 90px;
+    /* height ile yüksekliği ayarlayabiliriz. */
+    background-color: rgba(140, 143, 144, 0.371);
+    /* sayfa arkaplan rengini seçebiliriz. */
+}
+
+.search .text {
+    width: 500px;
+    /* width ile genişliği ayarlayabiliriz. */
+    border-radius: 50px;
+    /* border ile kutularımızın kenarlarını şekillendirebiliriz. */
+}
+
+.search .btn {
+    margin: 5px;
+    border-radius: 50px;
+}
+
+.btn:hover {
+    background-color: white;
+    color: blue;
+    /* color yazılarımızı renklendirir. */
+}
+
+.asd1 {
+    text-align: center;
+    float: left;
+    /* float ile kutularımızı yanyana getirmemiz mümkündür. */
+    width: 35%;
+    height: 100px;
+    background-color: aquamarine;
+
+
+}
+
+.asd2 {
+    text-align: center;
+    float: left;
+    width: 25%;
+    height: 100px;
+    background-color: rgb(48, 211, 157);
+
+}
+
+
+.asd3 {
+    text-align: center;
+    float: left;
+    width: 40%;
+    height: 100px;
+    background-color: rgb(78, 202, 161);
+    margin-bottom: 20px;
+}
+
+
+
+
+
+
+.ul {
+    list-style-type: none;
+    /* bu komutla ul içerisindeki bütün li lerin none ile noktalarını kaldırabiliriz. */
+}
+
+.footer {
+    text-align: center;
+    font-size: 14px;
+    /* font size ile yazı büyüklüğünü ayarlayabiliriz. */
+
+}
